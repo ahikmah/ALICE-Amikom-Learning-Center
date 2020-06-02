@@ -29,10 +29,6 @@
     
         $error_pass = ""; 
     }
-
-
-   
-
 ?>
 <body class="coworking-page">
 <!-- Main navigation -->
