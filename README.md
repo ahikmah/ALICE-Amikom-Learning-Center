@@ -12,7 +12,7 @@
 ```
 
 4. Clone git dari gitlab
-``#git clone https://gitlab.com/pwlanjut/alice.git``
+``#git clone https://github.com/ahikmah/ALICE-Amikom-Learning-Center.git``
 5. Done
 
 # Commit your work
